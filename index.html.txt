@@ -21,7 +21,7 @@
             <li>협업</li>
             <li>push.jeongeun</li>
             <li>pull.jingjing</li>
-            <li>conflict.jeongeun</li>
+            <li>conflict.jeongeun.jingjing</li>
         </ul>
     </body>
 </html>
